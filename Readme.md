@@ -1,0 +1,1 @@
+This file contains the readme of hms portal
